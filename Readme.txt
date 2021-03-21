@@ -1,6 +1,4 @@
-Thanks for downloading this template!
-
-Template Name: Personal
-Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Portafolio Digital
+Template URL: https://md-agencia.com
+Author: soec
+License: https://md-agencia.com
